@@ -18,5 +18,5 @@ However, given that the dataset failed 3 out of the 5 assumptions for multivaria
 Lastly, we see in both our models that weight is underestimated when the width & length of the fish are small.
 
 <img width="530" alt="multi_regression" src="https://user-images.githubusercontent.com/47754826/210423663-9db720e1-775d-435b-b37a-df9933008156.PNG">
+<img width="531" alt="sing_regression" src="https://user-images.githubusercontent.com/47754826/210423761-4ed1776a-9573-490b-af82-461538f09a28.PNG">
 
- 
