@@ -17,10 +17,6 @@ However, given that the dataset failed 3 out of the 5 assumptions for multivaria
 
 Lastly, we see in both our models that weight is underestimated when the width & length of the fish are small.
 
-<img src="multi_regression.png" alt="MultiVariable Linear Regression" title="MultiVariable Linear Regression">
-
-![MultiVariable](/multivariable-regression/multi_regression.PNG?raw=true "MultiVariable Linear Regression")
-
-![Alt text](sing_regression.png "Single Linear Regression")
+<img width="530" alt="multi_regression" src="https://user-images.githubusercontent.com/47754826/210423663-9db720e1-775d-435b-b37a-df9933008156.PNG">
 
  
