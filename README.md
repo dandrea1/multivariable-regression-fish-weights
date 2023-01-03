@@ -19,6 +19,8 @@ Lastly, we see in both our models that weight is underestimated when the width &
 
 <img src="multi_regression.png" alt="MultiVariable Linear Regression" title="MultiVariable Linear Regression">
 
+![MultiVariable](/multivariable-regression/multi_regression.PNG?raw=true "MultiVariable Linear Regression")
+
 ![Alt text](sing_regression.png "Single Linear Regression")
 
  
